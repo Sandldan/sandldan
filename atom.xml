@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Sandldan</title>
     <subtitle type="html">Personal website of Sandldan.</subtitle>
-    <updated>2020-06-04T20:22:17&#43;02:00</updated>
+    <updated>2020-06-28T23:48:55&#43;02:00</updated>
     <id>https://sandldan.com/</id>
     <link rel="alternate" type="text/html" href="https://sandldan.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sandldan.com/atom.xml" />
@@ -12,8 +12,127 @@
             <name>Sandldan</name>
             <uri>https://sandldan.com/</uri>
             
-                <email>sandldan@sandldan.com</email>
+                <email>andre@sandldan.com</email>
             </author>
     
     <generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
+        <entry>
+            <title type="text">Sunrise Photographing</title>
+            <link rel="alternate" type="text/html" href="https://sandldan.com/posts/sunrise-photographing/" />
+            <id>https://sandldan.com/posts/sunrise-photographing/</id>
+            <updated>2020-06-28T23:46:03&#43;02:00</updated>
+            <published>2020-06-28T20:03:22&#43;02:00</published>
+            <author>
+                    <name>Sandldan</name>
+                    <uri>https://sandldan.com/</uri>
+                    <email>andre@sandldan.com</email>
+                    </author>
+            <summary type="html">During quarantine I&#39;ve managed to get up with the sun a few weekends. Strolling around the canal streets before people have reclaimed the streets. During the slowly dissipating morning fog the city is home to a surprisingly active wildlife, many types of birds, fish splashing around and cats roaming the streets.</summary>
+            
+                <content type="html">&lt;p&gt;During quarantine I&#39;ve managed to get up with the sun a few weekends. Strolling around the canal streets before people have reclaimed the streets. During the slowly dissipating morning fog the city is home to a surprisingly active wildlife, many types of birds, fish splashing around and cats roaming the streets. When back home it feels like I&#39;ve come back from a different world, like a long holiday, this feeling usually sticks with you for the full day.&lt;/p&gt;
+&lt;p&gt;Hopefully I&#39;ll be able to continue this even after quarantine, only problem has been the sunset moving itself earlier and earlier. Here&#39;s some of the photos I&#39;ve taken during these times in Utrecht&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4835.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0384.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0385.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0391-2.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0398.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_47321.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4750.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4777.jpg&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Creative social distancing guidelines&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4819.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4823.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4870.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4871.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4873.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4889.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4894.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4908.jpg&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4931.jpg&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/photography/" term="Photography" label="Photography" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/utrecht/" term="Utrecht" label="Utrecht" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/the-netherlands/" term="The Netherlands" label="The Netherlands" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
 </feed>

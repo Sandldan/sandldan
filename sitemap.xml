@@ -3,15 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sandldan.com/categories/</loc>
+    <loc>https://sandldan.com/tags/photography/</loc>
+    <lastmod>2020-06-28T23:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sandldan.com/posts/</loc>
+    <lastmod>2020-06-28T23:46:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://sandldan.com/</loc>
+    <lastmod>2020-06-28T23:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sandldan.com/posts/sunrise-photographing/</loc>
+    <lastmod>2020-06-28T23:46:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://sandldan.com/tags/</loc>
+    <lastmod>2020-06-28T23:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sandldan.com/tags/the-netherlands/</loc>
+    <lastmod>2020-06-28T23:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sandldan.com/tags/utrecht/</loc>
+    <lastmod>2020-06-28T23:46:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sandldan.com/about/</loc>
+    <lastmod>2020-06-28T21:19:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sandldan.com/categories/</loc>
   </url>
   
 </urlset>

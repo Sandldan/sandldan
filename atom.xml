@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Sandldan</title>
     <subtitle type="html">Personal website of Sandldan.</subtitle>
-    <updated>2020-07-12T19:40:35&#43;02:00</updated>
+    <updated>2020-07-16T22:44:56&#43;02:00</updated>
     <id>https://sandldan.com/</id>
     <link rel="alternate" type="text/html" href="https://sandldan.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sandldan.com/atom.xml" />
@@ -17,10 +17,61 @@
     
     <generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
         <entry>
+            <title type="text">Book - Weapons of Math Destruction</title>
+            <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/weapons-of-math-destruction/" />
+            <id>https://sandldan.com/posts/books/weapons-of-math-destruction/</id>
+            <updated>2020-07-16T22:41:44&#43;02:00</updated>
+            <published>2020-07-16T11:11:35&#43;02:00</published>
+            <author>
+                    <name>Sandldan</name>
+                    <uri>https://sandldan.com/</uri>
+                    <email>andre@sandldan.com</email>
+                    </author>
+            <summary type="html">Good and short read for anyone interested in the subject, has a good introduction for anyone unfamiliar to the subject. I think the core of the book can be nicely summarized in this quite:
+Big Data processes codify the past. They do not invent the future.</summary>
+            
+                <content type="html">&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/posts/weapons-of-math-destruction/wmd.webp&#34; width=&#34;30%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Good and short read for anyone interested in the subject, has a good introduction for anyone unfamiliar to the subject. I think the core of the book can be nicely summarized in this quite:&lt;/p&gt;
+&lt;blockquote&gt;Big Data processes codify the past. They do not invent the future. Doing that requires moral imagination, and that&#39;s something only humans can provide.
+&lt;/blockquote&gt;
+&lt;p&gt;Data science is put to use throughout most of society, often in many unexpected ways, this in order to optimize systems ranging from school rankings to credit ratings. The final goal can vary widely from simply measuring progress, judging a person&amp;rsquo;s future credit rating or risk of criminal recidivism. When a system like this is based on bad assumptions or incomplete data there&amp;rsquo;s not many incentives to improve the broken parts as the only ones suffering are voiceless people caught in between. This is how a &amp;lsquo;Weapon of Math Destruction&amp;rsquo; or WMD&amp;rsquo;s are born.&lt;/p&gt;
+&lt;p&gt;The book starts with laying out the groundwork for what a WMD is and how they work, the book then continues listing these through many different examples (most of which are very US based). Unfortunately it kind of stops there, I would have liked to see a bit more elaboration in the end either around more successful systems or more thorough guidelines for how to avoid creating a WMD.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/books/" term="Books" label="Books" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/technology/" term="Technology" label="Technology" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Book - Technically Wrong</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/technically-wrong/" />
             <id>https://sandldan.com/posts/books/technically-wrong/</id>
-            <updated>2020-07-12T19:22:41&#43;02:00</updated>
+            <updated>2020-07-16T22:36:10&#43;02:00</updated>
             <published>2020-07-02T11:11:35&#43;02:00</published>
             <author>
                     <name>Sandldan</name>

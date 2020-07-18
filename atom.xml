@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Sandldan</title>
     <subtitle type="html">Personal website of Sandldan.</subtitle>
-    <updated>2020-07-16T22:44:56&#43;02:00</updated>
+    <updated>2020-07-18T17:02:04&#43;02:00</updated>
     <id>https://sandldan.com/</id>
     <link rel="alternate" type="text/html" href="https://sandldan.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sandldan.com/atom.xml" />
@@ -20,25 +20,28 @@
             <title type="text">Book - Weapons of Math Destruction</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/weapons-of-math-destruction/" />
             <id>https://sandldan.com/posts/books/weapons-of-math-destruction/</id>
-            <updated>2020-07-16T22:41:44&#43;02:00</updated>
+            <updated>2020-07-18T17:01:24&#43;02:00</updated>
             <published>2020-07-16T11:11:35&#43;02:00</published>
             <author>
                     <name>Sandldan</name>
                     <uri>https://sandldan.com/</uri>
                     <email>andre@sandldan.com</email>
                     </author>
-            <summary type="html">Good and short read for anyone interested in the subject, has a good introduction for anyone unfamiliar to the subject. I think the core of the book can be nicely summarized in this quite:
-Big Data processes codify the past. They do not invent the future.</summary>
+            <summary type="html">Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:
+ Big Data processes codify the past. They do not invent the future.</summary>
             
                 <content type="html">&lt;figure&gt;
     &lt;img src=&#34;https://sandldan.com/images/posts/weapons-of-math-destruction/wmd.webp&#34; width=&#34;30%&#34;/&gt; 
 &lt;/figure&gt;
 
-&lt;p&gt;Good and short read for anyone interested in the subject, has a good introduction for anyone unfamiliar to the subject. I think the core of the book can be nicely summarized in this quite:&lt;/p&gt;
-&lt;blockquote&gt;Big Data processes codify the past. They do not invent the future. Doing that requires moral imagination, and that&#39;s something only humans can provide.
+&lt;p&gt;Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:&lt;/p&gt;
+&lt;blockquote&gt;
+Big Data processes codify the past. They do not invent the future. Doing that requires moral imagination, and that&#39;s something only humans can provide.
 &lt;/blockquote&gt;
-&lt;p&gt;Data science is put to use throughout most of society, often in many unexpected ways, this in order to optimize systems ranging from school rankings to credit ratings. The final goal can vary widely from simply measuring progress, judging a person&amp;rsquo;s future credit rating or risk of criminal recidivism. When a system like this is based on bad assumptions or incomplete data there&amp;rsquo;s not many incentives to improve the broken parts as the only ones suffering are voiceless people caught in between. This is how a &amp;lsquo;Weapon of Math Destruction&amp;rsquo; or WMD&amp;rsquo;s are born.&lt;/p&gt;
-&lt;p&gt;The book starts with laying out the groundwork for what a WMD is and how they work, the book then continues listing these through many different examples (most of which are very US based). Unfortunately it kind of stops there, I would have liked to see a bit more elaboration in the end either around more successful systems or more thorough guidelines for how to avoid creating a WMD.&lt;/p&gt;
+&lt;p&gt;Data science is nothing new, but I don&amp;rsquo;t think many people are familiar with how its being applied, chances are that you have already been indirectly affected by it, positively or negatively. So how is it being used then? When people try to answer a seemingly simply question with a system, questions like which school is the best? Can I trust this person enough to give a loan? Will this person end up in jail again? Through computers and enough data available we believe we can answer these questions easily, though in reality many of these systems end up as a Weapon of Math Destruction (WMD).&lt;/p&gt;
+&lt;p&gt;Most of the time people&amp;rsquo;s own biases and racisms are unintentionally encoded into these systems, for example race might not be an explicit variable but zip codes can make for a near identical substitute. In the end these systems end up working great for many people and can go horribly wrong for others, do you live in a bad neighbourhood but have no criminal record? Chances are you&amp;rsquo;ll be judged more harshly than someone from a different background. In the race for improved school ratings tuition fees is not a variable which has contributed to the astronomical increase in fees for students.&lt;/p&gt;
+&lt;p&gt;The book starts with defining what a WMD is and continues by going through various examples in great detail. it kind of stops a bit abruptly after this without much further elaboration. Most of the examples throughout the book are very US-centric, where regulation is usually more reactive rather than pre-emptive, compared to Europe, as far as I know these systems are not as widely adopted or even usable in Europe. I&amp;rsquo;d be very interested to know more of such systems being used here as it&amp;rsquo;s not something that&amp;rsquo;s generally widely reported on.&lt;/p&gt;
+&lt;p&gt;Bottom line, great short read that can open up your eyes to something that feels obvious in retrospect, which is one of the better results after finishing a book.&lt;/p&gt;
 </content>
             
             

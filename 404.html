@@ -4,6 +4,35 @@
     <meta charset="UTF-8" />
 
     <meta name="generator" content="Hugo 0.68.3" /><meta name="theme-color" content="#fff" />
+        <script>
+            const userPrefers = localStorage.getItem('theme');
+            const darkModeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+            const lightModeMediaQuery = window.matchMedia('(prefers-color-scheme: light)');
+            if (userPrefers === 'dark') {
+                changeModeMeta('dark');
+            } else if (userPrefers === 'light') {
+                changeModeMeta('light');
+            } else if (darkModeMediaQuery.matches) {
+                changeModeMeta('dark');
+            } else if (lightModeMediaQuery.matches) {
+                changeModeMeta('light');
+            }
+            function changeModeMeta(theme) {
+                document.documentElement.setAttribute('data-theme', theme);
+                if (theme === 'dark') {
+                    changeThemeColor('#16171d');
+                } else {
+                    changeThemeColor('#fff');
+                }
+            }
+            function changeThemeColor(themeColor) {
+                document.querySelector('meta[name="theme-color"]').setAttribute('content', themeColor);
+            }
+        </script>
+
+    
+
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
@@ -14,18 +43,15 @@
 
     <title>404 Page not found | Sandldan</title>
 
-    <link rel="stylesheet" href="/css/meme.min.1363b17c86aca50903ed28f0647b997ef861687846af3da7f44a76c7e938b353.css" integrity="sha256-E2OxfIaspQkD7SjwZHuZfvhhaHhGrz2n9Ep2x&#43;k4s1M=" />
-
-    
-    <script src="/js/meme.min.bd0eea515c65973d87304767e1d1fcd7ed2cbfbcf24e327a793f426d69b05f51.js" integrity="sha256-vQ7qUVxllz2HMEdn4dH81&#43;0sv7zyTjJ6eT9CbWmwX1E="></script>
-
+    <link rel="stylesheet" href="/css/meme.min.5f0ff4fbdd5f122101f0c28d70be9e0f1ee985d33ce098ac10cada9b6a3bf9b7.css" integrity="sha256-Xw/0+91fEiEB8MKNcL6eDx7phdM84JisEMram2o7+bc=" />
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" media="print" onload="this.media='all'" />
         <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" /></noscript>
 
-    <meta name="author" content="Sandldan" /><meta name="description" content="Personal website of Sandldan." />
+    <meta name="author" content="Sandldan" />
+    <meta name="description" content="Personal website of Sandldan." />
 
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="mask-icon" href="/icons/safari-pinned-tab.svg" color="#2a6df4" />
@@ -45,7 +71,8 @@
 
     
     <link rel="canonical" href="https://sandldan.com/404.html" />
-    
+
+
 
 <script type="application/ld+json">
     {
@@ -75,12 +102,16 @@
 
     
 
+
+
 <meta name="twitter:card" content="summary" />
 
 <meta name="twitter:site" content="@Sandldan" />
 <meta name="twitter:creator" content="@Sandldan" />
 
     
+
+
 
 
 

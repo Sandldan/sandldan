@@ -4,10 +4,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Sandldan</title>
     <subtitle type="html">Personal website of Sandldan.</subtitle>
-    <updated>2020-08-09T18:39:32&#43;02:00</updated>
+    <updated>2020-08-09T18:50:52+02:00</updated>
     <id>https://sandldan.com/</id>
     <link rel="alternate" type="text/html" href="https://sandldan.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://sandldan.com/atom.xml" />
+    <link rel="self" type="application/atom+xml" href="https://sandldan.com/atom.xml" />
     <author>
             <name>Sandldan</name>
             <uri>https://sandldan.com/</uri>
@@ -20,29 +20,29 @@
             <title type="text">Book - Weapons of Math Destruction</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/weapons-of-math-destruction/" />
             <id>https://sandldan.com/posts/books/weapons-of-math-destruction/</id>
-            <updated>2020-07-18T17:01:24&#43;02:00</updated>
-            <published>2020-07-16T11:11:35&#43;02:00</published>
+            <updated>2020-07-18T17:01:24+02:00</updated>
+            <published>2020-07-16T11:11:35+02:00</published>
             <author>
                     <name>Sandldan</name>
                     <uri>https://sandldan.com/</uri>
                     <email>andre@sandldan.com</email>
                     </author>
-            <summary type="html">Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:
- Big Data processes codify the past. They do not invent the future.</summary>
+            <summary type="html"><![CDATA[Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:
+ Big Data processes codify the past. They do not invent the future.]]></summary>
             
-                <content type="html">&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/posts/weapons-of-math-destruction/wmd.webp&#34; width=&#34;30%&#34;/&gt; 
-&lt;/figure&gt;
+                <content type="html"><![CDATA[<figure>
+    <img src="/images/posts/weapons-of-math-destruction/wmd.webp" width="30%"/> 
+</figure>
 
-&lt;p&gt;Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:&lt;/p&gt;
-&lt;blockquote&gt;
-Big Data processes codify the past. They do not invent the future. Doing that requires moral imagination, and that&#39;s something only humans can provide.
-&lt;/blockquote&gt;
-&lt;p&gt;Data science is nothing new, but I don&amp;rsquo;t think many people are familiar with how its being applied, chances are that you have already been indirectly affected by it, positively or negatively. So how is it being used then? When people try to answer a seemingly simply question with a system, questions like which school is the best? Can I trust this person enough to give a loan? Will this person end up in jail again? Through computers and enough data available we believe we can answer these questions easily, though in reality many of these systems end up as a Weapon of Math Destruction (WMD).&lt;/p&gt;
-&lt;p&gt;Most of the time people&amp;rsquo;s own biases and racisms are unintentionally encoded into these systems, for example race might not be an explicit variable but zip codes can make for a near identical substitute. In the end these systems end up working great for many people and can go horribly wrong for others, do you live in a bad neighbourhood but have no criminal record? Chances are you&amp;rsquo;ll be judged more harshly than someone from a different background. In the race for improved school ratings tuition fees is not a variable which has contributed to the astronomical increase in fees for students.&lt;/p&gt;
-&lt;p&gt;The book starts with defining what a WMD is and continues by going through various examples in great detail. it kind of stops a bit abruptly after this without much further elaboration. Most of the examples throughout the book are very US-centric, where regulation is usually more reactive rather than pre-emptive, compared to Europe, as far as I know these systems are not as widely adopted or even usable in Europe. I&amp;rsquo;d be very interested to know more of such systems being used here as it&amp;rsquo;s not something that&amp;rsquo;s generally widely reported on.&lt;/p&gt;
-&lt;p&gt;Bottom line, great short read that can open up your eyes to something that feels obvious in retrospect, which is one of the better results after finishing a book.&lt;/p&gt;
-</content>
+<p>Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:</p>
+<blockquote>
+Big Data processes codify the past. They do not invent the future. Doing that requires moral imagination, and that's something only humans can provide.
+</blockquote>
+<p>Data science is nothing new, but I don&rsquo;t think many people are familiar with how its being applied, chances are that you have already been indirectly affected by it, positively or negatively. So how is it being used then? When people try to answer a seemingly simply question with a system, questions like which school is the best? Can I trust this person enough to give a loan? Will this person end up in jail again? Through computers and enough data available we believe we can answer these questions easily, though in reality many of these systems end up as a Weapon of Math Destruction (WMD).</p>
+<p>Most of the time people&rsquo;s own biases and racisms are unintentionally encoded into these systems, for example race might not be an explicit variable but zip codes can make for a near identical substitute. In the end these systems end up working great for many people and can go horribly wrong for others, do you live in a bad neighbourhood but have no criminal record? Chances are you&rsquo;ll be judged more harshly than someone from a different background. In the race for improved school ratings tuition fees is not a variable which has contributed to the astronomical increase in fees for students.</p>
+<p>The book starts with defining what a WMD is and continues by going through various examples in great detail. it kind of stops a bit abruptly after this without much further elaboration. Most of the examples throughout the book are very US-centric, where regulation is usually more reactive rather than pre-emptive, compared to Europe, as far as I know these systems are not as widely adopted or even usable in Europe. I&rsquo;d be very interested to know more of such systems being used here as it&rsquo;s not something that&rsquo;s generally widely reported on.</p>
+<p>Bottom line, great short read that can open up your eyes to something that feels obvious in retrospect, which is one of the better results after finishing a book.</p>
+]]></content>
             
             
             
@@ -74,23 +74,23 @@ Big Data processes codify the past. They do not invent the future. Doing that re
             <title type="text">Book - Technically Wrong</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/technically-wrong/" />
             <id>https://sandldan.com/posts/books/technically-wrong/</id>
-            <updated>2020-08-09T15:26:21&#43;02:00</updated>
-            <published>2020-07-02T11:11:35&#43;02:00</published>
+            <updated>2020-08-09T15:26:21+02:00</updated>
+            <published>2020-07-02T11:11:35+02:00</published>
             <author>
                     <name>Sandldan</name>
                     <uri>https://sandldan.com/</uri>
                     <email>andre@sandldan.com</email>
                     </author>
-            <summary type="html">I think this book would&amp;rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place.</summary>
+            <summary type="html"><![CDATA[I think this book would&rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place.]]></summary>
             
-                <content type="html">&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/posts/technically-wrong/technically-wrong.jpg&#34; width=&#34;30%&#34;/&gt; 
-&lt;/figure&gt;
+                <content type="html"><![CDATA[<figure>
+    <img src="/images/posts/technically-wrong/technically-wrong.jpg" width="30%"/> 
+</figure>
 
-&lt;p&gt;I think this book would&amp;rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place. I&amp;rsquo;d blame myself for being too enthusiastic about the tech industry and its seemingly endless possibilities as well as being too focused on my own career path. It&amp;rsquo;s easy to forget to stop and reflect on your own privileges and empathising with others situation&amp;rsquo;s during your own struggles.&lt;/p&gt;
-&lt;p&gt;The book is a great read for anyone working in tech or anyone who&amp;rsquo;s interacting with parts of the tech industry (which is most people these days). The book succinctly breaks down the broken feedback loops of biases, ethical oversights and sexisms littered throughout the tech industry specifically. It&amp;rsquo;s not something most of us feel we perpetuate, we&amp;rsquo;re just doing our best to solve interesting problems right? But the problems runs deeper than any single individual, the culture that has been set as precedence by successful companies is non welcoming to outsiders resulting in a lack of diversity which in turn shows itself in how the technology around us is meant to be interacted with.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s a short read with a lot of anecdotal stories, lacking a bit in deeper insights and advice. If you&amp;rsquo;ve been following the tech industry for a longer time you&amp;rsquo;ve most likely been able to pick up most pieces presented in the book, but you might not pieced everything together in feedback the broad perspective given in this book.&lt;/p&gt;
-</content>
+<p>I think this book would&rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place. I&rsquo;d blame myself for being too enthusiastic about the tech industry and its seemingly endless possibilities as well as being too focused on my own career path. It&rsquo;s easy to forget to stop and reflect on your own privileges and empathising with others situation&rsquo;s during your own struggles.</p>
+<p>The book is a great read for anyone working in tech or anyone who&rsquo;s interacting with parts of the tech industry (which is most people these days). The book succinctly breaks down the broken feedback loops of biases, ethical oversights and sexisms littered throughout the tech industry specifically. It&rsquo;s not something most of us feel we perpetuate, we&rsquo;re just doing our best to solve interesting problems right? But the problems runs deeper than any single individual, the culture that has been set as precedence by successful companies is non welcoming to outsiders resulting in a lack of diversity which in turn shows itself in how the technology around us is meant to be interacted with.</p>
+<p>It&rsquo;s a short read with a lot of anecdotal stories, lacking a bit in deeper insights and advice. If you&rsquo;ve been following the tech industry for a longer time you&rsquo;ve most likely been able to pick up most pieces presented in the book, but you might not pieced everything together in feedback the broad perspective given in this book.</p>
+]]></content>
             
             
             
@@ -122,88 +122,88 @@ Big Data processes codify the past. They do not invent the future. Doing that re
             <title type="text">Sunrise Photographing</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/sunrise-photographing/" />
             <id>https://sandldan.com/posts/sunrise-photographing/</id>
-            <updated>2020-06-28T23:46:03&#43;02:00</updated>
-            <published>2020-06-28T20:03:22&#43;02:00</published>
+            <updated>2020-06-28T23:46:03+02:00</updated>
+            <published>2020-06-28T20:03:22+02:00</published>
             <author>
                     <name>Sandldan</name>
                     <uri>https://sandldan.com/</uri>
                     <email>andre@sandldan.com</email>
                     </author>
-            <summary type="html">During quarantine I&#39;ve managed to get up with the sun a few weekends. Strolling around the canal streets before people have reclaimed the streets. During the slowly dissipating morning fog the city is home to a surprisingly active wildlife, many types of birds, fish splashing around and cats roaming the streets.</summary>
+            <summary type="html"><![CDATA[During quarantine I've managed to get up with the sun a few weekends. Strolling around the canal streets before people have reclaimed the streets. During the slowly dissipating morning fog the city is home to a surprisingly active wildlife, many types of birds, fish splashing around and cats roaming the streets.]]></summary>
             
-                <content type="html">&lt;p&gt;During quarantine I&#39;ve managed to get up with the sun a few weekends. Strolling around the canal streets before people have reclaimed the streets. During the slowly dissipating morning fog the city is home to a surprisingly active wildlife, many types of birds, fish splashing around and cats roaming the streets. When back home it feels like I&#39;ve come back from a different world, like a long holiday, this feeling usually sticks with you for the full day.&lt;/p&gt;
-&lt;p&gt;Hopefully I&#39;ll be able to continue this even after quarantine, only problem has been the sunset moving itself earlier and earlier. Here&#39;s some of the photos I&#39;ve taken during these times in Utrecht&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4835.jpg&#34;/&gt; 
-&lt;/figure&gt;
+                <content type="html"><![CDATA[<p>During quarantine I've managed to get up with the sun a few weekends. Strolling around the canal streets before people have reclaimed the streets. During the slowly dissipating morning fog the city is home to a surprisingly active wildlife, many types of birds, fish splashing around and cats roaming the streets. When back home it feels like I've come back from a different world, like a long holiday, this feeling usually sticks with you for the full day.</p>
+<p>Hopefully I'll be able to continue this even after quarantine, only problem has been the sunset moving itself earlier and earlier. Here's some of the photos I've taken during these times in Utrecht</p>
+<p><figure>
+    <img src="/images/showcase/DSC_4835.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0384.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DJI_0384.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0385.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DJI_0385.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0391-2.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DJI_0391-2.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DJI_0398.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DJI_0398.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_47321.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_47321.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4750.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4750.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4777.jpg&#34;/&gt; &lt;figcaption&gt;
-            &lt;h4&gt;Creative social distancing guidelines&lt;/h4&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4777.jpg"/> <figcaption>
+            <h4>Creative social distancing guidelines</h4>
+        </figcaption>
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4819.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4819.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4823.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4823.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4870.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4870.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4871.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4871.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4873.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4873.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4889.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4889.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4894.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4894.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4908.jpg&#34;/&gt; 
-&lt;/figure&gt;
+<figure>
+    <img src="/images/showcase/DSC_4908.jpg"/> 
+</figure>
 
-&lt;figure&gt;
-    &lt;img src=&#34;https://sandldan.com/images/showcase/DSC_4931.jpg&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/p&gt;
-</content>
+<figure>
+    <img src="/images/showcase/DSC_4931.jpg"/> 
+</figure>
+</p>
+]]></content>
             
             
             

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Sandldan</title>
     <subtitle type="html">Personal website of Sandldan.</subtitle>
-    <updated>2020-07-18T17:05:20&#43;02:00</updated>
+    <updated>2020-08-09T18:20:24&#43;02:00</updated>
     <id>https://sandldan.com/</id>
     <link rel="alternate" type="text/html" href="https://sandldan.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sandldan.com/atom.xml" />
@@ -74,7 +74,7 @@ Big Data processes codify the past. They do not invent the future. Doing that re
             <title type="text">Book - Technically Wrong</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/technically-wrong/" />
             <id>https://sandldan.com/posts/books/technically-wrong/</id>
-            <updated>2020-07-18T17:04:43&#43;02:00</updated>
+            <updated>2020-08-09T15:26:21&#43;02:00</updated>
             <published>2020-07-02T11:11:35&#43;02:00</published>
             <author>
                     <name>Sandldan</name>

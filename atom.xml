@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Sandldan</title>
     <subtitle type="html">Personal website of Sandldan.</subtitle>
-    <updated>2020-10-03T21:57:06&#43;02:00</updated>
+    <updated>2020-10-26T21:09:30&#43;01:00</updated>
     <id>https://sandldan.com/</id>
     <link rel="alternate" type="text/html" href="https://sandldan.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sandldan.com/atom.xml" />
@@ -16,6 +16,108 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
+        <entry>
+            <title type="text">Book - On Writing Well</title>
+            <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/writing-well/" />
+            <id>https://sandldan.com/posts/books/writing-well/</id>
+            <updated>2020-10-26T21:07:39&#43;01:00</updated>
+            <published>2020-10-26T19:17:58&#43;00:00</published>
+            <author>
+                    <name>Sandldan</name>
+                    <uri>https://sandldan.com/</uri>
+                    <email>andre@sandldan.com</email>
+                    </author>
+            <summary type="html">As early as I can remember I loved reading and writing, I was constantly using my fathers old grey typweriter writing my own adventure stories imagining the future fame I&amp;rsquo;d have to humbly accept. My fictional fame didn&amp;rsquo;t last long as there came a point during my early school years where insecurities and school itself killed my writing spirit.</summary>
+            
+                <content type="html">&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/posts/writing-well/writing-well.jpg&#34; width=&#34;30%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;As early as I can remember I loved reading and writing, I was constantly using my fathers old grey typweriter writing my own adventure stories imagining the future fame I&amp;rsquo;d have to humbly accept. My fictional fame didn&amp;rsquo;t last long as there came a point during my early school years where insecurities and school itself killed my writing spirit. Writing for someone else with the potential of having my thoughts read out loud was the worst thing I knew, I only did the bare minimum.&lt;/p&gt;
+&lt;p&gt;Constantly overcomplicating my writing while obsessing over how it would be perceived by others never fully disappeared. This book is the best therapy I&amp;rsquo;ve had to overcome some of this, less so for the technical advice and examples it gives, but more due to the new perspectives around how and why you should write in the first place. It managed to really simplify a lot of my thinking as well as approach to writing itself and it&amp;rsquo;s something I&amp;rsquo;ve come to appreciate in a new way.&lt;/p&gt;
+&lt;p&gt;Writing is a great skill whether it&amp;rsquo;s used personally or professionally, being able to gather and communicate your thoughts in a coherent way is very underrated!&lt;/p&gt;
+&lt;blockquote&gt;
+Writing is an act of ego and you might as well admit it, write unapologetically for yourself
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Examine every word you put on paper. You&#39;ll find a surprising number that don&#39;t serve any purpose.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Don’t try to visualize the great mass audience. There is no such audience—every reader is a different person.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+There are many good reasons for writing that have nothing to do with being published. Writing is a powerful search mechanism, and one of its satisfactions is to come to terms with your life narrative. Another is to work through some of life’s hardest knocks—loss, grief, illness, addiction, disappointment, failure—and to find understanding and solace.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Constantly ask: what am I trying to say? Then ask: have I said it?
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Are you summarizing because you think they’re too dumb to get the point?
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Dead sentences: The reader can’t visualize anybody performing some activity;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+A difficult problem in a sentence can be solved by simply getting rid of it.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Much of the trouble that writers get into comes from trying to make one sentence do too much work.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Now, what do your readers want to know next? Ask yourself that question after every sentence.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Readers should always feel that you know more about your subject than you’ve put in writing.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Don&#39;t annoy your readers by over-explaining--by telling them something they already know or can figure out. Try not to use words like &#34;surprisingly,&#34; &#34;predictably&#34; and &#34;of course,&#34; which put a value on a fact before the reader encounters the fact. Trust your material.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Most first drafts can be cut by 50 percent without losing any information or losing the author’s voice.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Nobody turns so quickly into a bore as a traveler home from his travels. He enjoyed his trip so much that he wants to tell us all about it—and “all” is what we don’t want to hear. We only want to hear some.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Writing improves in direct ratio to the number of things we can keep out of it that shouldn’t be there.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Nobody can write a decent article about the disappearance of small towns in Iowa; it would be all generalization and no humanity. The writer would have to write about one small town in Iowa and thereby tell her larger story. And even within that one town she would have to reduce her story still further: to one store, or one family, or one farmer.
+&lt;/blockquote&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/books/" term="Books" label="Books" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/writing/" term="Writing" label="Writing" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/self-improvement/" term="Self improvement" label="Self improvement" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Tattoo</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/tattoo/" />
@@ -85,7 +187,7 @@
             <title type="text">Book - Weapons of Math Destruction</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/weapons-of-math-destruction/" />
             <id>https://sandldan.com/posts/books/weapons-of-math-destruction/</id>
-            <updated>2020-07-18T17:01:24&#43;02:00</updated>
+            <updated>2020-10-26T21:07:30&#43;01:00</updated>
             <published>2020-07-16T11:11:35&#43;02:00</published>
             <author>
                     <name>Sandldan</name>
@@ -139,7 +241,7 @@ Big Data processes codify the past. They do not invent the future. Doing that re
             <title type="text">Book - Technically Wrong</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/technically-wrong/" />
             <id>https://sandldan.com/posts/books/technically-wrong/</id>
-            <updated>2020-08-09T15:26:21&#43;02:00</updated>
+            <updated>2020-10-26T20:56:49&#43;01:00</updated>
             <published>2020-07-02T11:11:35&#43;02:00</published>
             <author>
                     <name>Sandldan</name>

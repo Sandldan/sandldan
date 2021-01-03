@@ -10,7 +10,7 @@
         <title>Sandldan</title>
         <link>https://sandldan.com/</link>
         <description>Personal website of Sandldan.</description>
-        <generator>Hugo 0.68.3 https://gohugo.io/</generator>
+        <generator>Hugo 0.74.3 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -21,7 +21,7 @@
             <webMaster>andre@sandldan.com (Sandldan)</webMaster>
         
         
-        <lastBuildDate>Mon, 26 Oct 2020 21:09:30 &#43;0100</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 20:45:19 &#43;0100</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://sandldan.com/rss.xml" />
         

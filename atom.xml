@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Sandldan</title>
     <subtitle type="html">Personal website of Sandldan.</subtitle>
-    <updated>2021-01-03T20:45:19&#43;01:00</updated>
+    <updated>2021-01-03T20:48:50&#43;01:00</updated>
     <id>https://sandldan.com/</id>
     <link rel="alternate" type="text/html" href="https://sandldan.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sandldan.com/atom.xml" />
@@ -16,6 +16,106 @@
             </author>
     
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">Book - Homo Deus</title>
+            <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/homo-deus/" />
+            <id>https://sandldan.com/posts/books/homo-deus/</id>
+            <updated>2021-01-03T20:48:24&#43;01:00</updated>
+            <published>2020-12-27T12:12:41&#43;02:00</published>
+            <author>
+                    <name>Sandldan</name>
+                    <uri>https://sandldan.com/</uri>
+                    <email>andre@sandldan.com</email>
+                    </author>
+            <summary type="html">Sapiens (the first book) is one I quickly recommend to most people, easy to read and will broaden your perspective on what it means to be human. I had high hopes going into Homo Deus but unfortunately it fails to captivate to the same degree.</summary>
+            
+                <content type="html">&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/posts/homo-deus/homo-deus.jpg&#34; width=&#34;30%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Sapiens (the first book) is one I quickly recommend to most people, easy to read and will broaden your perspective on what it means to be human. I had high hopes going into Homo Deus but unfortunately it fails to captivate to the same degree. The book towards a few core concepts through disjointed anecdotes and sometimes hyperbolic claims, these concepts do succeed in giving a new high level perspective of where humanity is and where we have the potential of going.&lt;/p&gt;
+&lt;p&gt;Choice quotes:&lt;/p&gt;
+&lt;blockquote&gt;
+99 per cent of our decisions are made by the highly refined algorithms we call sensations, emotions and desires.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+If you really understand the theory of evolution, you understand that there is no soul.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Rome conquered Greece not because the Romans had larger brains or better tool-making techniques, but because they were able to cooperate more effectively.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Sapiens don’t behave according to a cold mathematical logic, but rather according to a warm social logic. We are ruled by emotions. These emotions are in fact sophisticated algorithms that reflect the social mechanisms of ancient hunter-gatherer bands.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+To study history means to watch the spinning and unravelling of these webs, and to realise that what seems to people in one age the most important thing in life becomes utterly meaningless to their descendants.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+In literate societies people are organised into networks, so that each person is only a small step in a huge algorithm, and it is the algorithm as a whole that makes the important decisions.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+This is the best reason to learn history: not in order to predict the future, but to free yourself of the past and imagine alternative destinies. Of course this is not total freedom – we cannot avoid being shaped by the past. But some freedom is better than none.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Each and every one of us has been born into a given historical reality, ruled by particular norms and values, and managed by a unique economic and political system. We take this reality for granted, thinking it is natural, inevitable and immutable. We forget that our world was created by an accidental chain of events, and that history shaped not only our technology, politics and society, but also our thoughts, fears and dreams. The cold hand of the past emerges from the grave of our ancestors, grips us by the neck and directs our gaze towards a single future. We have felt that grip from the moment we were born, so we assume that it is a natural and inescapable part of who we are. Therefore we seldom try to shake ourselves free, and envision alternative futures.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Yet in truth the lives of most people have meaning only within the network of stories they tell one another.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Sapiens rule the world because only they can weave an intersubjective web of meaning: a web of laws, forces, entities and places that exist purely in their common imagination. This web allows humans alone to organise crusades, socialist revolutions and human rights movements.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+The entire modernity contract can be summarised in a single phrase: humans agree to give up meaning in exchange for power.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+A human culture that believed it already knew everything worth knowing would not bother searching for new knowledge. This was the position of most premodern human civilisations. However, the Scientific Revolution freed humankind from this naïve conviction. The greatest scientific discovery was the discovery of ignorance.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Fundamentalists may repeat the mantra that ‘Islam is the answer’, but religions that lose touch with the technological realities of the day forfeit their ability even to understand the questions being asked.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Within myself, the seeming unity that I take for granted dissolves into a cacophony of conflicting voices, none of which is ‘my true self’.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+The stock exchange is the fastest and most efficient data-processing system humankind has so far created. 
+&lt;/blockquote&gt;
+&lt;p&gt;The book ends with a short summary of its own concepts:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Science is converging on an all-encompassing dogma, which says that organisms are algorithms, and life is data processing.&lt;/li&gt;
+&lt;li&gt;Intelligence is decoupling from consciousness.&lt;/li&gt;
+&lt;li&gt;Non-conscious but highly intelligent algorithms may soon know us better than we know ourselves.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These three processes raise three key questions, which I hope will stick in your mind long after you have finished this book:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Are organisms really just algorithms, and is life really just data processing?&lt;/li&gt;
+&lt;li&gt;What&amp;rsquo;s more valuable - intelligence or consciousness?&lt;/li&gt;
+&lt;li&gt;What will happen to society, politics and daily life when non conscious but highly intelligent algorithms know us better than we know ourselves?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sandldan.com/tags/books/" term="Books" label="Books" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Book - On Writing Well</title>
             <link rel="alternate" type="text/html" href="https://sandldan.com/posts/books/writing-well/" />

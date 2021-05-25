@@ -21,13 +21,121 @@
             <webMaster>andre@sandldan.com (Sandldan)</webMaster>
         
         
-        <lastBuildDate>Sun, 09 May 2021 12:35:36 &#43;0200</lastBuildDate>
+        <lastBuildDate>Tue, 25 May 2021 21:45:42 &#43;0200</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://sandldan.com/rss.xml" />
         
         
             <item>
-                <title>Black Box Thinking</title>
+                <title>Book - Drive</title>
+                <link>https://sandldan.com/posts/books/drive/</link>
+                <guid isPermaLink="true">https://sandldan.com/posts/books/drive/</guid>
+                <pubDate>Tue, 25 May 2021 12:33:02 &#43;0200</pubDate>
+                
+                    <author>andre@sandldan.com (Sandldan)</author>
+                
+                
+                
+                    <description>&lt;figure&gt;
+    &lt;img src=&#34;https://sandldan.com/images/posts/books/drive/drive.jpg&#34; width=&#34;30%&#34;/&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;Great book for managers and organizational leaders to read. Studies motivation at work, extrinsic vs intrinsic motivations. The first chapter lays out the hypothesis while the rest of the chapters tries to back this up through various examples, the last chapter instead takes a very practical path - listing actionable strategies for many different situations, also including a nice further reading list.&lt;/p&gt;
+&lt;p&gt;My summary of the first chapter:&lt;/p&gt;
+&lt;p&gt;Work can be categorized into two categories; algorithmic and heuristic, the former relates to basic tasks that have a set of instructions and will always follow the same logical path. Heuristic on the other hand is a lot more open ended requiring creativity and problem solving abilities. Motivating someone doing algorithmic work is relatively easy, carrot and stick approach is mostly enough. Motivating someone doing heuristic work is different, here the work itself has an intrinsic value - solving puzzles, expressing creativity can itself be rewarding enough, applying the same rules for algorithmic work motivation can be detrimental. Doing something inherently interesting for fear of punishment or hope for reward can instead remove the individual&amp;rsquo;s inherent desire and interest in the task.&lt;/p&gt;
+&lt;blockquote&gt;
+When money is used as an external reward for some activity, the subjects lose intrinsic interest for the activity.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Rewards can deliver a short-term boost - just as a jolt of caffeine can keep you cranking for a few more hours. But the effect wears off - and, worse, can reduce a person’s longer-term motivation to continue the project.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+One who is interested in developing and enhancing intrinsic motivation in children, employees, students, etc., should not concentrate on external-control systems such as monetary rewards.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+People in the open-source movement haven’t taken vows of poverty. For many, participation in these projects can burnish their reputations and sharpen their skills, which can enhance their earning power.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Routine work can be outsourced or automated; artistic, empathic, nonroutine work generally cannot.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+He tells prospective employees: “If you need me to motivate you, I probably don’t want to hire you.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Rewards, by their very nature, narrow our focus. That’s helpful when there’s a clear path to a solution. They help us stare ahead and race faster.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Those artists who pursued their painting and sculpture more for the pleasure of the activity itself than for extrinsic rewards have produced art that has been socially recognized as superior.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+In environments where extrinsic rewards are most salient, many people work only to the point that triggers the reward - and no further.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Ensure that the baseline rewards - wages, salaries, benefits, and so on - are adequate and fair. Without a healthy baseline, motivation of any sort is difficult and often impossible.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Rewards do not undermine people’s intrinsic motivation for dull tasks because there is little or no intrinsic motivation to be undermined.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+In a Results-Only Work Environment (ROWE) workplace, people don’t have schedules. They show up when they want. They don’t have to be in the office at a certain time - or any time, for that matter. They just have to get their work done. How they do it, when they do it, and where they do it is up to them.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Resist the temptation to control people - and instead do everything we can to reawaken their deep-seated sense of autonomy.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+People working in self-organized teams are more satisfied than those working in inherited teams.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+A healthy society - and healthy business organizations - begins with purpose and considers profit a way to move toward that end or a happy by-product of its attainment.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+If someone is bored with his current assignment, see if he can train someone else in the skills he’s already mastered. Then see if he can take on some aspect of a more experienced team member’s work.
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+Get compensation right - and then get it out of sight. Effective organizations compensate people in amounts and in ways that allow individuals to mostly forget about compensation and instead focus on the work itself.
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sandldan.com/tags/books/">Books</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://sandldan.com/tags/psychology/">Psychology</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://sandldan.com/tags/self-improvement/">Self improvement</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://sandldan.com/tags/motivation/">Motivation</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Book - Black Box Thinking</title>
                 <link>https://sandldan.com/posts/books/black-box-thinking/</link>
                 <guid isPermaLink="true">https://sandldan.com/posts/books/black-box-thinking/</guid>
                 <pubDate>Tue, 02 Mar 2021 23:42:44 &#43;0100</pubDate>

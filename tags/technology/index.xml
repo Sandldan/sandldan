@@ -4,23 +4,25 @@
     <title>Technology on Sandldan</title>
     <link>https://sandldan.com/tags/technology/</link>
     <description>Recent content in Technology on Sandldan</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
+    <managingEditor>andre@sandldan.com (Sandldan)</managingEditor>
+    <webMaster>andre@sandldan.com (Sandldan)</webMaster>
     <lastBuildDate>Mon, 26 Oct 2020 21:07:30 +0100</lastBuildDate>
     <atom:link href="https://sandldan.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book - Weapons of Math Destruction</title>
       <link>https://sandldan.com/posts/books/weapons-of-math-destruction/</link>
-      <pubDate>Thu, 16 Jul 2020 11:11:35 +0200</pubDate>
+      <pubDate>Thu, 16 Jul 2020 11:11:35 +0200</pubDate><author>andre@sandldan.com (Sandldan)</author>
       <guid>https://sandldan.com/posts/books/weapons-of-math-destruction/</guid>
-      <description>Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:&#xA;Big Data processes codify the past. They do not invent the future.</description>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://sandldan.com/images/posts/weapons-of-math-destruction/wmd.webp&#34; width=&#34;30%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;Big Data processes codify the past. They do not invent the future. Doing that requires moral imagination, and that&#39;s something only humans can provide.&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Data science is nothing new, but I don&amp;rsquo;t think many people are familiar with how its being applied, chances are that you have already been indirectly affected by it, positively or negatively. So how is it being used then? When people try to answer a seemingly simply question with a system, questions like which school is the best? Can I trust this person enough to give a loan? Will this person end up in jail again? Through computers and enough data available we believe we can answer these questions easily, though in reality many of these systems end up as a Weapon of Math Destruction (WMD).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Book - Technically Wrong</title>
       <link>https://sandldan.com/posts/books/technically-wrong/</link>
-      <pubDate>Thu, 02 Jul 2020 11:11:35 +0200</pubDate>
+      <pubDate>Thu, 02 Jul 2020 11:11:35 +0200</pubDate><author>andre@sandldan.com (Sandldan)</author>
       <guid>https://sandldan.com/posts/books/technically-wrong/</guid>
-      <description>I think this book would&amp;rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place.</description>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://sandldan.com/images/posts/technically-wrong/technically-wrong.jpg&#34; width=&#34;30%&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I think this book would&amp;rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place. I&amp;rsquo;d blame myself for being too enthusiastic about the tech industry and its seemingly endless possibilities as well as being too focused on my own career path. It&amp;rsquo;s easy to forget to stop and reflect on your own privileges and empathising with others situation&amp;rsquo;s during your own struggles.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,124 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://sandldan.com/posts/books/drive/</loc>
-    <lastmod>2021-05-25T21:44:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sandldan.com/tags/books/</loc>
-    <lastmod>2021-05-25T21:44:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sandldan.com/tags/motivation/</loc>
-    <lastmod>2021-05-25T21:44:43+02:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://sandldan.com/posts/</loc>
+    <lastmod>2022-02-02T09:10:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sandldan.com/</loc>
+    <lastmod>2022-02-02T09:10:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sandldan.com/posts/books/drive/</loc>
     <lastmod>2021-05-25T21:44:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://sandldan.com/tags/books/</loc>
+    <lastmod>2021-05-25T21:44:43+02:00</lastmod>
+  </url><url>
+    <loc>https://sandldan.com/tags/motivation/</loc>
+    <lastmod>2021-05-25T21:44:43+02:00</lastmod>
+  </url><url>
     <loc>https://sandldan.com/tags/psychology/</loc>
     <lastmod>2021-05-25T21:44:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sandldan.com/</loc>
-    <lastmod>2021-05-25T22:01:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/self-improvement/</loc>
     <lastmod>2021-05-25T21:44:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/</loc>
     <lastmod>2021-05-25T21:44:43+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/posts/books/black-box-thinking/</loc>
     <lastmod>2021-05-25T21:17:38+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/posts/books/homo-deus/</loc>
     <lastmod>2021-01-03T20:48:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/posts/books/writing-well/</loc>
     <lastmod>2020-10-26T21:07:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/writing/</loc>
     <lastmod>2020-10-26T21:07:39+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/life/</loc>
     <lastmod>2020-09-30T23:06:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/personal/</loc>
     <lastmod>2020-09-30T23:06:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/posts/tattoo/</loc>
     <lastmod>2020-09-30T23:06:01+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/posts/books/weapons-of-math-destruction/</loc>
     <lastmod>2020-10-26T21:07:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/technology/</loc>
     <lastmod>2020-10-26T21:07:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/posts/books/technically-wrong/</loc>
     <lastmod>2020-10-26T20:56:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/photography/</loc>
     <lastmod>2020-10-03T21:33:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/posts/sunrise-photographing/</loc>
     <lastmod>2020-10-03T21:33:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/the-netherlands/</loc>
     <lastmod>2020-10-03T21:33:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/tags/utrecht/</loc>
     <lastmod>2020-10-03T21:33:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/about/</loc>
     <lastmod>2021-05-25T22:01:49+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sandldan.com/categories/</loc>
   </url>
-  
 </urlset>

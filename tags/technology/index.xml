@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Sandldan</title>
+    <link>https://sandldan.com/tags/technology/</link>
+    <description>Recent content in Technology on Sandldan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2020 21:07:30 +0100</lastBuildDate>
+    <atom:link href="https://sandldan.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book - Weapons of Math Destruction</title>
+      <link>https://sandldan.com/posts/books/weapons-of-math-destruction/</link>
+      <pubDate>Thu, 16 Jul 2020 11:11:35 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/weapons-of-math-destruction/</guid>
+      <description>Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:&#xA;Big Data processes codify the past. They do not invent the future.</description>
+    </item>
+    <item>
+      <title>Book - Technically Wrong</title>
+      <link>https://sandldan.com/posts/books/technically-wrong/</link>
+      <pubDate>Thu, 02 Jul 2020 11:11:35 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/technically-wrong/</guid>
+      <description>I think this book would&amp;rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place.</description>
+    </item>
+  </channel>
+</rss>

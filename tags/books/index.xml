@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Sandldan</title>
+    <link>https://sandldan.com/tags/books/</link>
+    <description>Recent content in Books on Sandldan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 May 2021 21:44:43 +0200</lastBuildDate>
+    <atom:link href="https://sandldan.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book - Drive</title>
+      <link>https://sandldan.com/posts/books/drive/</link>
+      <pubDate>Tue, 25 May 2021 12:33:02 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/drive/</guid>
+      <description>Great book for managers and organizational leaders to read. Studies motivation at work, extrinsic vs intrinsic motivations. The first chapter lays out the hypothesis while the rest of the chapters tries to back this up through various examples, the last chapter instead takes a very practical path - listing actionable strategies for many different situations, also including a nice further reading list.</description>
+    </item>
+    <item>
+      <title>Book - Black Box Thinking</title>
+      <link>https://sandldan.com/posts/books/black-box-thinking/</link>
+      <pubDate>Tue, 02 Mar 2021 23:42:44 +0100</pubDate>
+      <guid>https://sandldan.com/posts/books/black-box-thinking/</guid>
+      <description>I started reading this book with the wrongful assumption that it would be technology focused, I had been led to believe this as the book has been mentioned in those circles many times. So what is the book actually about? Failure - and what happens when we can successfully keep learning from failure.</description>
+    </item>
+    <item>
+      <title>Book - Homo Deus</title>
+      <link>https://sandldan.com/posts/books/homo-deus/</link>
+      <pubDate>Sun, 27 Dec 2020 12:12:41 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/homo-deus/</guid>
+      <description>Sapiens (the first book) is one I quickly recommend to most people, easy to read and will broaden your perspective on what it means to be human. I had high hopes going into Homo Deus but unfortunately it fails to captivate to the same degree.</description>
+    </item>
+    <item>
+      <title>Book - On Writing Well</title>
+      <link>https://sandldan.com/posts/books/writing-well/</link>
+      <pubDate>Mon, 26 Oct 2020 19:17:58 +0000</pubDate>
+      <guid>https://sandldan.com/posts/books/writing-well/</guid>
+      <description>As early as I can remember I loved reading and writing, I was constantly using my fathers old grey typweriter writing my own adventure stories imagining the future fame I&amp;rsquo;d have to humbly accept. My fictional fame didn&amp;rsquo;t last long as there came a point during my early school years where insecurities and school itself killed my writing spirit.</description>
+    </item>
+    <item>
+      <title>Book - Weapons of Math Destruction</title>
+      <link>https://sandldan.com/posts/books/weapons-of-math-destruction/</link>
+      <pubDate>Thu, 16 Jul 2020 11:11:35 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/weapons-of-math-destruction/</guid>
+      <description>Good and short introduction for anyone interested in the subject of big data and its potential negative side effects, I think the core message can be summarized in this quote:&#xA;Big Data processes codify the past. They do not invent the future.</description>
+    </item>
+    <item>
+      <title>Book - Technically Wrong</title>
+      <link>https://sandldan.com/posts/books/technically-wrong/</link>
+      <pubDate>Thu, 02 Jul 2020 11:11:35 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/technically-wrong/</guid>
+      <description>I think this book would&amp;rsquo;ve been slightly better for my past self to have read, with the potential issue of my past self not being fully reciprocal to the content nor interested enough to pick up the book in the first place.</description>
+    </item>
+  </channel>
+</rss>

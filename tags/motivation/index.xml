@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation on Sandldan</title>
+    <link>https://sandldan.com/tags/motivation/</link>
+    <description>Recent content in Motivation on Sandldan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 May 2021 21:44:43 +0200</lastBuildDate>
+    <atom:link href="https://sandldan.com/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book - Drive</title>
+      <link>https://sandldan.com/posts/books/drive/</link>
+      <pubDate>Tue, 25 May 2021 12:33:02 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/drive/</guid>
+      <description>Great book for managers and organizational leaders to read. Studies motivation at work, extrinsic vs intrinsic motivations. The first chapter lays out the hypothesis while the rest of the chapters tries to back this up through various examples, the last chapter instead takes a very practical path - listing actionable strategies for many different situations, also including a nice further reading list.</description>
+    </item>
+  </channel>
+</rss>

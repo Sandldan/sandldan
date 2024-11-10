@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Sandldan</title>
+    <link>https://sandldan.com/tags/writing/</link>
+    <description>Recent content in Writing on Sandldan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Oct 2020 21:07:39 +0100</lastBuildDate>
+    <atom:link href="https://sandldan.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book - On Writing Well</title>
+      <link>https://sandldan.com/posts/books/writing-well/</link>
+      <pubDate>Mon, 26 Oct 2020 19:17:58 +0000</pubDate>
+      <guid>https://sandldan.com/posts/books/writing-well/</guid>
+      <description>As early as I can remember I loved reading and writing, I was constantly using my fathers old grey typweriter writing my own adventure stories imagining the future fame I&amp;rsquo;d have to humbly accept. My fictional fame didn&amp;rsquo;t last long as there came a point during my early school years where insecurities and school itself killed my writing spirit.</description>
+    </item>
+  </channel>
+</rss>

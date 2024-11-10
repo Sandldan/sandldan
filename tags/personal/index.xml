@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Sandldan</title>
+    <link>https://sandldan.com/tags/personal/</link>
+    <description>Recent content in Personal on Sandldan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Sep 2020 23:06:01 +0200</lastBuildDate>
+    <atom:link href="https://sandldan.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tattoo</title>
+      <link>https://sandldan.com/posts/tattoo/</link>
+      <pubDate>Wed, 30 Sep 2020 22:05:27 +0200</pubDate>
+      <guid>https://sandldan.com/posts/tattoo/</guid>
+      <description>During my late teenage years I started thinking about getting a tattoo, eventually the thought turned into a fact, a fact without need to be reflected on any longer, it&#39;s been sitting there as a fact all this time until I now at 31 have booked my first appointment.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self Improvement on Sandldan</title>
+    <link>https://sandldan.com/tags/self-improvement/</link>
+    <description>Recent content in Self Improvement on Sandldan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 May 2021 21:44:43 +0200</lastBuildDate>
+    <atom:link href="https://sandldan.com/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book - Drive</title>
+      <link>https://sandldan.com/posts/books/drive/</link>
+      <pubDate>Tue, 25 May 2021 12:33:02 +0200</pubDate>
+      <guid>https://sandldan.com/posts/books/drive/</guid>
+      <description>Great book for managers and organizational leaders to read. Studies motivation at work, extrinsic vs intrinsic motivations. The first chapter lays out the hypothesis while the rest of the chapters tries to back this up through various examples, the last chapter instead takes a very practical path - listing actionable strategies for many different situations, also including a nice further reading list.</description>
+    </item>
+    <item>
+      <title>Book - Black Box Thinking</title>
+      <link>https://sandldan.com/posts/books/black-box-thinking/</link>
+      <pubDate>Tue, 02 Mar 2021 23:42:44 +0100</pubDate>
+      <guid>https://sandldan.com/posts/books/black-box-thinking/</guid>
+      <description>I started reading this book with the wrongful assumption that it would be technology focused, I had been led to believe this as the book has been mentioned in those circles many times. So what is the book actually about? Failure - and what happens when we can successfully keep learning from failure.</description>
+    </item>
+    <item>
+      <title>Book - On Writing Well</title>
+      <link>https://sandldan.com/posts/books/writing-well/</link>
+      <pubDate>Mon, 26 Oct 2020 19:17:58 +0000</pubDate>
+      <guid>https://sandldan.com/posts/books/writing-well/</guid>
+      <description>As early as I can remember I loved reading and writing, I was constantly using my fathers old grey typweriter writing my own adventure stories imagining the future fame I&amp;rsquo;d have to humbly accept. My fictional fame didn&amp;rsquo;t last long as there came a point during my early school years where insecurities and school itself killed my writing spirit.</description>
+    </item>
+  </channel>
+</rss>
